@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints
+
+# Virtual envs
+.env
+.venv
+env/
+venv/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy / coverage
+.mypy_cache/
+.coverage
+coverage.xml
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (if you keep large data locally)
+data/

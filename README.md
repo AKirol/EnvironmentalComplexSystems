@@ -12,7 +12,8 @@ Structure
 - src/env_complex_systems/: Python package with reusable code
 - data/: raw/processed datasets (not tracked here — add large files to external storage)
 - tests/: pytest unit and integration tests
-- docs/: docs and examples
+- docs/: Documentation and examples
+  - `random_walk_guide.md`: Comprehensive user guide and theory for the random walk notebook
 
 Quick start (pip/venv)
 1. Create a virtual environment:

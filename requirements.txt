@@ -1,0 +1,10 @@
+# Minimal pip requirements (update as needed)
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+jupyterlab
+nbformat
+nbconvert
+pytest

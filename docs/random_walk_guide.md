@@ -125,7 +125,7 @@ Where:
 **Key Properties:**
 - For symmetric random walks: **⟨x(t)⟩ = 0** (average position returns to origin)
 - The **root-mean-square displacement** grows as: **√⟨x²⟩ ∝ √t**
-- This is slower than ballistic motion (∝ t) but faster than logarithmic diffusion
+- This is slower than advective motion (∝ t) but faster than logarithmic diffusion
 
 **Physical Interpretation:**
 - The MSD measures how far, on average, a particle has moved from its starting position
